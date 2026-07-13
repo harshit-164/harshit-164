@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Harshit 👋<br><br>🎓 3rd Year CSE Student<br>💻 Full Stack Web Developer<br>🚀 Building cool web apps and solving real-world problems<br>🌱 Learning every day and leveling up my skills<br>⚡ Interested in Web Development, Startups, and Entrepreneurship<br>🎯 Mission: Turn ideas into products that make an impact<br><br>Code. Build. Learn. Repeat. 🔥
+Hi, I'm Harshit 👋<br><br>🎓 3rd Year CSE Student<br>💻 Full Stack Web Developer<br>🚀 Building cool web apps; solving real-world problems<br>🌱 Learning every day and leveling up my skills<br>⚡ Interested in Web Development, Startups, and Entrepreneurship<br>🎯 Mission: Turn ideas into products that make an impact<br><br>Code. Build. Learn. Repeat. 🔥
 
 
 ## 🌐 Socials:
